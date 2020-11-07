@@ -7,4 +7,4 @@
 - Support multiple users to chat online with same room name.
 
 
-- Room name, users name will show on chat page interface.
+- Room name & users name will show on chat page interface, allow send real-time location information.
